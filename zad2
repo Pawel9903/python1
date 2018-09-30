@@ -1,0 +1,7 @@
+kwota = input('Podaj kwote \n')
+kwota = float(kwota)
+napiwek1 = kwota * 0.15
+napiwek2 = kwota * 0.20
+napiwek1 = str(napiwek1)
+napiwek2 = str(napiwek2)
+print('napiwek 15% = '+ napiwek1 +'\n napiwek 20% = '+ napiwek2)

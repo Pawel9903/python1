@@ -1,0 +1,12 @@
+def podatek(kwota):
+	podatek = float(kwota) * 0.20
+	oplRej = float(kwota) * 0.05
+	prowizja = 800
+	oplDos = 500
+	print("Suma = "+str(kwota)+"\nOpłata Rejestracyjna= "+str(oplRej)+"\nProwizja= "+str(prowizja)+"\nOpłata za dostarczenie= " +str(oplDos)) 
+
+suma = input('Podaj cenę ')
+
+podatek(suma)
+
+
