@@ -1,0 +1,5 @@
+print(1000-23+5)
+print(30*5)
+print(134/4)
+print(134//4)
+print(134%4)

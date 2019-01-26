@@ -1,4 +1,0 @@
-przysmak = input('podaj pierwszy przysmak\n')
-przysmak2 = input('podaj drugi przysmak\n')
-przysmak3 = przysmak +' ' + przysmak2
-print(przysmak3)
